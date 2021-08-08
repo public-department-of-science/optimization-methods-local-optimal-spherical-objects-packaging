@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="hs071_cs.FixedRadius3dAdaptor">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABCCAAAAAEAAAAgEAIACAAQAABAAAAgAAAYAA=</HashCode>
+      <FileName>FixedRadius3dAdaptor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.183" />
+  </Class>
+  <Class Name="hs071_cs.BaseAdaptor">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAQAABAACAAAAAAAAAABAAAACBAAABAAAAAACAAAI=</HashCode>
+      <FileName>BaseAdaptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hs071_cs.OutPut">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgAQEAAAAIAAAAABAAAAAIQAAAAQAAAAEAAAA=</HashCode>
+      <FileName>OutPut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hs071_cs.Input">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAIQCQAACQABAEAACAAAAAoBAQAAAQAAABBAEAA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hs071_cs.Ball">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAAYQE=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hs071_cs.Data">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAQA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="hs071_cs.ObjectType">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQABCAAACA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
