@@ -1,0 +1,21 @@
+SCIENCE ARTICLES AND AUTHOR RIGHTS
+During my university years 2014-2019, I had the great opportunity to communicate and collaborate with so many doctors of science that in my
+ third-fourth year I completed my Ph.D. I was about 20-21 years old. As for me, it was quite a long to wait 6-7 years more to get a PhD.
+
+1. Some problems of optimization in the configuration space of spherical objects.
+2. Использование параллельных вычислений в задачах упаковки шаровых объектов в контейнер с применением пакета IPOPT 
+для решения задач нелинейной оптимизации. 
+3. On problems of optimizations in the configuration of spherical objects with variable radius. 15th ESICUP Meeting. Zoetermeer, Netherlands, 05.18
+4. О некоторых задачах оптимизации в конфигурационном пространстве сферических объектов. ММОТI. Кишинев.
+5. Использование параллельных вычислений в задачах упаковки шаровых объектов в контейнер с применением пакета IPOPT для решения задач оптимизации.
+6. Third order spline interpolation algorithms. Akima’s splines interpolation with (3 points to use). Schema of Zeilema (5 points based algorithm). 
+7. “Simple things to combine in more complex one” – alg. to propose, implement.
+8. Моделирование информационной системы автоматизирующей составление индивидуальных планов. 
+9. О некоторых подходах к распараллеливанию вычислений в генетических алгоритмах.
+10. Automation, Control and Intelligent Systems: genetic algorithm to use in optimization methods applied to packing.
+11. Scopus: Numerical results of variable radii method in the unequal circles packing problem.
+12. Publications in locals: articles related to computer sciences and applied math etc.
+13. Participated in discovering new direction in math area applicable to combinations and space configurations in cooperation with Dr.
+ of Science in Applied Mathematics.
+14. I was worked on discovering some processes in fields related to physical math and the transport equation.
+15. Dnieper city, 2018 or 2019. Balancing-packaging and packaging with prohibited-zones of simple objects.

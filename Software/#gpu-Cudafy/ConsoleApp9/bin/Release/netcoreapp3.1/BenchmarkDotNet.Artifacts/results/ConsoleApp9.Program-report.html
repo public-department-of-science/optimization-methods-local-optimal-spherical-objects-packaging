@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>ConsoleApp9.Program-20210415-143215</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.12.1, OS=Windows 10.0.18363.1500 (1909/November2018Update/19H2)
+Intel Core i5-9300H CPU 2.40GHz, 1 CPU, 8 logical and 4 physical cores
+.NET Core SDK=6.0.100-preview.2.21155.3
+  [Host]        : .NET Core 3.1.14 (CoreCLR 4.700.21.16201, CoreFX 4.700.21.16208), X64 RyuJIT
+  .NET Core 3.1 : .NET Core 3.1.14 (CoreCLR 4.700.21.16201, CoreFX 4.700.21.16208), X64 RyuJIT
+  .NET Core 5.0 : .NET Core 5.0.5 (CoreCLR 5.0.521.16609, CoreFX 5.0.521.16609), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>                Method</th><th>    Job</th><th>Runtime</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>StringSortToBenchmark</td><td>.NET 4.6.1</td><td>.NET 4.6.1</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET 4.6.1</td><td>.NET 4.6.1</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET 4.6.2</td><td>.NET 4.6.2</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET 4.6.2</td><td>.NET 4.6.2</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET 4.7</td><td>.NET 4.7</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET 4.7</td><td>.NET 4.7</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET 4.7.1</td><td>.NET 4.7.1</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET 4.7.1</td><td>.NET 4.7.1</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET 4.7.2</td><td>.NET 4.7.2</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET 4.7.2</td><td>.NET 4.7.2</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET 4.8</td><td>.NET 4.8</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET 4.8</td><td>.NET 4.8</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET Core 2.0</td><td>.NET Core 2.0</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET Core 2.0</td><td>.NET Core 2.0</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET Core 2.1</td><td>.NET Core 2.1</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET Core 2.1</td><td>.NET Core 2.1</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET Core 2.2</td><td>.NET Core 2.2</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET Core 2.2</td><td>.NET Core 2.2</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET Core 3.0</td><td>.NET Core 3.0</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET Core 3.0</td><td>.NET Core 3.0</td><td>NA</td><td>NA</td><td>NA</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET Core 3.1</td><td>.NET Core 3.1</td><td>4.539 &mu;s</td><td>0.0288 &mu;s</td><td>0.0241 &mu;s</td><td>0.5341</td><td>-</td><td>-</td><td>2264 B</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET Core 3.1</td><td>.NET Core 3.1</td><td>5.127 &mu;s</td><td>0.0918 &mu;s</td><td>0.0814 &mu;s</td><td>0.8392</td><td>-</td><td>-</td><td>3512 B</td>
+</tr><tr><td>StringSortToBenchmark</td><td>.NET Core 5.0</td><td>.NET Core 5.0</td><td>3.736 &mu;s</td><td>0.0722 &mu;s</td><td>0.0640 &mu;s</td><td>0.5379</td><td>-</td><td>-</td><td>2264 B</td>
+</tr><tr><td>StringBuilderSortToBenchmark</td><td>.NET Core 5.0</td><td>.NET Core 5.0</td><td>4.359 &mu;s</td><td>0.0248 &mu;s</td><td>0.0232 &mu;s</td><td>0.8392</td><td>-</td><td>-</td><td>3512 B</td>
+</tr></tbody></table>
+</body>
+</html>
