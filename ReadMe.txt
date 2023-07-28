@@ -26,5 +26,5 @@ Email: skripkabodya@gmail.com
 
 In a nutshell, the things I described - everything about optimal packaging of spherical objects into specifica external container. The field of applications for that in many engineering directions such as medicine, aerospace (the first place to use it) etc.
 
-My Science director was: Yakovlev Serhiy Vsevolodovych - Honored Worker of Science and Technology of Ukraine, Doctor of Physical and Mathematical Sciences, Professor, First Deputy Director for Educational and Scientific Work of the Educational and Scientific Institute of Kharkiv National University of Internal Affairs. Head of the Center "Creation and Research of Aerospace Objects and Systems", Professor of Mathematical Modeling and Artificial Intelligence.
+My Science director was: Yakovlev Serhii Vsevolodovych - Honored Worker of Science and Technology of Ukraine, Doctor of Physical and Mathematical Sciences, Professor, First Deputy Director for Educational and Scientific Work of the Educational and Scientific Institute of Kharkiv National University of Internal Affairs. Head of the Center "Creation and Research of Aerospace Objects and Systems", Professor of Mathematical Modeling and Artificial Intelligence.
 Link: https://k304.khai.edu/staff-members/yakovlev-sergei-vsevolodovich/
