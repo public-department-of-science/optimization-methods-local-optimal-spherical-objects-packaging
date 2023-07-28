@@ -1,6 +1,6 @@
 SCIENCE ARTICLES AND AUTHOR RIGHTS
 During my university years 2014-2019, I had the great opportunity to communicate and collaborate with so many doctors of science that in my
- third-fourth year I completed my Ph.D. I was about 20-21 years old. As for me, it was quite a long to wait 6-7 years more to get a PhD.
+ third-fourth year I completed my Ph.D. I was about 20-21 years old.
 
 1. Some problems of optimization in the configuration space of spherical objects.
 2. Использование параллельных вычислений в задачах упаковки шаровых объектов в контейнер с применением пакета IPOPT 
